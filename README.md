@@ -1,4 +1,3 @@
-# Arogo_assignment
 # Mental Health Prediction App  
 
 This repository contains a **Streamlit web application** for predicting mental health treatment needs based on survey responses. The model is a **Random Forest Classifier**, trained on mental health survey data and saved using `joblib`.  
